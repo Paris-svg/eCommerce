@@ -1,4 +1,5 @@
 # eCommerce
+![image](image/UI.png)
 Proyek ini adalah simulasi aplikasi e-commerce yang dibangun menggunakan React.js untuk front-end dan Node.js (Express.js) untuk back-end. Mendemonstrasikan kemampuan dalam membuat REST API, mengelola state aplikasi, dan menghubungkan client dengan server.
 
 ## Fitur Utama:
